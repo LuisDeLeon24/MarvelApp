@@ -1,1 +1,1 @@
-# MarvelApp
+# marvel-api
